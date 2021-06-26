@@ -1,0 +1,4 @@
+rootProject.name = "CoStat"
+include ':presentation'
+include ':data'
+include ':domain'
